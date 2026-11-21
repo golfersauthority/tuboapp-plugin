@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "tuboapp",
+  "version": "0.1.0",
+  "description": "YouTube outlier and competitor research from your TuboApp account: find breakout videos, build Make this video briefs, compare your channel with competitors, and track new channels.",
+  "author": {
+    "name": "TuboApp"
+  },
+  "homepage": "https://app.tuboapp.com",
+  "keywords": [
+    "youtube",
+    "outliers",
+    "competitors",
+    "research",
+    "mcp"
+  ],
+  "repository": "https://github.com/golfersauthority/tuboapp-plugin"
+}

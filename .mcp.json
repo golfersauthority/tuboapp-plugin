@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tuboapp": {
+      "type": "http",
+      "url": "https://tuboapp-mcp-production.up.railway.app/mcp"
+    }
+  }
+}
